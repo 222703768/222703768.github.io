@@ -1,7 +1,7 @@
  Nondumiso N Ngobese
 
 👤 About Me
-Motivated and detail-oriented IT student currently completing a Diploma in ICT Application Development at Cape Peninsula University of Technology. Skilled in communication, problem-solving, and building strong client relationships. Passionate about leveraging technology to create practical solutions, including mobile app development, and committed to contributing to community-focused initiatives.
+Motivated and detail-oriented IT student currently completing a Diploma in ICT Application Development at Cape Peninsula University of Technology. Skilled in communication, problem solving, and building strong client relationships. Passionate about leveraging technology to create practical solutions, including mobile app development, and committed to contributing to community focused initiatives.
 
 🎓 Education
 Esiqiwini High School – Matric
@@ -15,7 +15,7 @@ Programming: Java, JavaScript
 
 Web Development: HTML, CSS, JavaScript
 
-Tools: Git, VS Code, IntelliJ
+Tools: Git, VS Code, IntelliJ ,NetBeans
 
 Database: SQL Basics
 
