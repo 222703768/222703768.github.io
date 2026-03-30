@@ -24,6 +24,8 @@ Soft Skills: Problem Solving, Communication, Teamwork, Adaptability
 📂 CV
 View My CV Here (https://github.com/wil-it-2026/cv-submission-222703768/blob/main/Nondumiso%20Ngobese%20CV.pdf)  
 
+Mock Video
+Watch my mock video (https://drive.google.com/file/d/16V9aF7Qyct1QcIF_23w0tRktnEOXKEYv/view?usp=sharing)
 
 📞 References
 Mr. Mackenzie Nyabadza  
