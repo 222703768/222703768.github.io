@@ -1,4 +1,7 @@
+#222703768.github.io
+
 Portfolio – Nondumiso N Ngobese
+
 👤 About Me
 Motivated and detail-oriented IT student currently completing a Diploma in ICT Application Development at Cape Peninsula University of Technology. Skilled in communication, problem-solving, and building strong client relationships. Passionate about leveraging technology to create practical solutions, including mobile app development, and committed to contributing to community-focused initiatives.
 
@@ -21,7 +24,7 @@ Database: SQL Basics
 Soft Skills: Problem Solving, Communication, Teamwork, Adaptability
 
 📂 CV
-View My CV Here (github.com in Bing)  
+View My CV Here (https://github.com/wil-it-2026/cv-submission-222703768/blob/main/Nondumiso%20Ngobese%20CV.pdf)  
 
 
 📞 References
