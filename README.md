@@ -40,6 +40,6 @@ Miss Thulisile N Sibiya
 ## 🎥Mock Video Introduction
 
 <video width="600" controls>
-  <source src="Video (1).mov" type="video/mov">
+  <source src="MockVideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
