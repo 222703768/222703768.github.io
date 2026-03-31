@@ -24,8 +24,6 @@ Soft Skills: Problem Solving, Communication, Teamwork, Adaptability
 📂 CV
 View My CV Here (https://github.com/wil-it-2026/cv-submission-222703768/blob/main/Nondumiso%20Ngobese%20CV.pdf)  
 
-Mock Video
-Watch my mock video (https://drive.google.com/file/d/16V9aF7Qyct1QcIF_23w0tRktnEOXKEYv/view?usp=sharing)
 
 📞 References
 Mr. Mackenzie Nyabadza  
@@ -36,3 +34,12 @@ Mr. Mackenzie Nyabadza
 Miss Thulisile N Sibiya  
 • Company: Esiqiwini High School
 • Contact: +1 (788) 394 8720 or 079 858 4137
+
+---
+
+## 🎥Mock Video Introduction
+
+<video width="600" controls>
+  <source src="Video (1).mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
